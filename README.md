@@ -3,9 +3,9 @@
 ### I'm Jason 👋
 Security engineer & full-time doodadder.
  
-I work in security engineering, digital threats, automation, and self-hosting everything.
+I do security things, work with threats, be lazy with automation, and self-host most things.
  
-On the side: proxmox, astro, blast beats, strudel.cc.
+I like proxmox, blast beats, and strudel.cc.
 
 Find me at [saiba.cloud](https://saiba.cloud) 👻
  
