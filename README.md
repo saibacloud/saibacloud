@@ -5,7 +5,7 @@ Security engineer & full-time doodadder.
  
 I do security things, work with threats, be lazy with automation, and self-host most things.
  
-I like proxmox, blast beats, and strudel.cc.
+I like proxmox, blast beats, and REAPER.
 
 Find me at [saiba.cloud](https://saiba.cloud) 👻
  
